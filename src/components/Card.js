@@ -1,7 +1,7 @@
 function Card(props) {
   return (
-    <div class="card">
-      <img src={props.img} className='card-image' />
+    <div className={`card ${props.id}`} onClickCapture={(e) => props.handleClick(e)}>
+      <img src={props.img} className='card-image'/>
       <p className='card-name'>{props.name}</p>
     </div>
   );
