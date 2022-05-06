@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.2883b6e0.css",
+    "main.js": "/memory-card/static/js/main.f4bd77ce.js",
+    "static/media/isaac.jpg": "/memory-card/static/media/isaac.a011eafe5648f8fe6d12.jpg",
+    "static/media/mikey.jpg": "/memory-card/static/media/mikey.8244716959da2805e488.jpg",
+    "static/media/tadano.jpg": "/memory-card/static/media/tadano.97d83a1602523c8c7c91.jpg",
+    "static/media/shikimori.jpg": "/memory-card/static/media/shikimori.fe6d43472df2aca266ce.jpg",
+    "static/media/kaguya.jpg": "/memory-card/static/media/kaguya.3cc29396519d2dc3c4a7.jpg",
+    "static/media/ishigami.jpg": "/memory-card/static/media/ishigami.e1dbe279080264906c77.jpg",
+    "static/media/komi.jpg": "/memory-card/static/media/komi.7a1dccbdef2e1f5ba3aa.jpg",
+    "static/media/kenma.jpg": "/memory-card/static/media/kenma.39f7a65d240849076403.jpg",
+    "static/media/izumi.jpg": "/memory-card/static/media/izumi.4c08e14c68df217cd372.jpg",
+    "static/media/saiki.jpg": "/memory-card/static/media/saiki.6f9202c4d3fd8a028c93.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.2883b6e0.css.map": "/memory-card/static/css/main.2883b6e0.css.map",
+    "main.f4bd77ce.js.map": "/memory-card/static/js/main.f4bd77ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2883b6e0.css",
+    "static/js/main.f4bd77ce.js"
+  ]
+}
